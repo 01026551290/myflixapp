@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1e26b6fedd33cc627e319aff732e3e40",
+    "revision": "e7c05889380b23b8492829c753675e08",
     "url": "/myflixapp/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/myflixapp/static/css/2.4c4477be.chunk.css"
   },
   {
-    "revision": "4b0f100631d2ca961200",
+    "revision": "280c3528fa5d7d8d33da",
     "url": "/myflixapp/static/css/main.2c0ae9a5.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/myflixapp/static/js/2.35cf1d19.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4b0f100631d2ca961200",
-    "url": "/myflixapp/static/js/main.2af3381e.chunk.js"
+    "revision": "280c3528fa5d7d8d33da",
+    "url": "/myflixapp/static/js/main.23cc8933.chunk.js"
   },
   {
     "revision": "678a87376bebdf1a2dd1",
