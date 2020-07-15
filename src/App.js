@@ -7,16 +7,16 @@ import MovieDetail from "./components/MovieDetail";
 
 function App() {
   return (
-        <BrowserRouter>
+        <div>
             <NavBar />
             <div style={{ paddingTop: '69px', minHeight: 'calc(100vh - 80px)' }}>
-                <HashRouter>
+                <BrowserRouter basename={process.env.PUBLIC_URL}>
                     <Route exact path="/myflixapp"  component={LandingPage} />
                     <Route exact path="/movie/:movieId"  component={MovieDetail} />
-                </HashRouter>
+                </BrowserRouter>
             </div>
             <Footer />
-        </BrowserRouter>
+        </div>
   );
 }
 
