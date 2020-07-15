@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/myflixapp/static/css/main.2c0ae9a5.chunk.css",
-    "main.js": "/myflixapp/static/js/main.97367a7a.chunk.js",
-    "main.js.map": "/myflixapp/static/js/main.97367a7a.chunk.js.map",
+    "main.js": "/myflixapp/static/js/main.631df467.chunk.js",
+    "main.js.map": "/myflixapp/static/js/main.631df467.chunk.js.map",
     "runtime-main.js": "/myflixapp/static/js/runtime-main.f95a3a3f.js",
     "runtime-main.js.map": "/myflixapp/static/js/runtime-main.f95a3a3f.js.map",
     "static/css/2.4c4477be.chunk.css": "/myflixapp/static/css/2.4c4477be.chunk.css",
     "static/js/2.02a0b52a.chunk.js": "/myflixapp/static/js/2.02a0b52a.chunk.js",
     "static/js/2.02a0b52a.chunk.js.map": "/myflixapp/static/js/2.02a0b52a.chunk.js.map",
     "index.html": "/myflixapp/index.html",
-    "precache-manifest.e4e97840ad6216b527190d6071c83b18.js": "/myflixapp/precache-manifest.e4e97840ad6216b527190d6071c83b18.js",
+    "precache-manifest.bb5e549c05f3431602b7f62851a524bc.js": "/myflixapp/precache-manifest.bb5e549c05f3431602b7f62851a524bc.js",
     "service-worker.js": "/myflixapp/service-worker.js",
     "static/css/2.4c4477be.chunk.css.map": "/myflixapp/static/css/2.4c4477be.chunk.css.map",
     "static/css/main.2c0ae9a5.chunk.css.map": "/myflixapp/static/css/main.2c0ae9a5.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.4c4477be.chunk.css",
     "static/js/2.02a0b52a.chunk.js",
     "static/css/main.2c0ae9a5.chunk.css",
-    "static/js/main.97367a7a.chunk.js"
+    "static/js/main.631df467.chunk.js"
   ]
 }
