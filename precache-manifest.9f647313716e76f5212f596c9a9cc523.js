@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "675c174569f141527dc7c11d145e7afc",
+    "revision": "9825b0b5b02d953eec37d29f3f9d3c12",
     "url": "/myflixapp/index.html"
   },
   {
-    "revision": "1fc76bd25b344fa2030d",
+    "revision": "e6e65db3b8eac41a78d6",
     "url": "/myflixapp/static/css/2.4c4477be.chunk.css"
   },
   {
-    "revision": "c8673d29a47525acd599",
+    "revision": "c88600cd74a132260958",
     "url": "/myflixapp/static/css/main.2c0ae9a5.chunk.css"
   },
   {
-    "revision": "1fc76bd25b344fa2030d",
-    "url": "/myflixapp/static/js/2.02a0b52a.chunk.js"
+    "revision": "e6e65db3b8eac41a78d6",
+    "url": "/myflixapp/static/js/2.b3fb8eef.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/myflixapp/static/js/2.02a0b52a.chunk.js.LICENSE.txt"
+    "url": "/myflixapp/static/js/2.b3fb8eef.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c8673d29a47525acd599",
-    "url": "/myflixapp/static/js/main.dbba52e2.chunk.js"
+    "revision": "c88600cd74a132260958",
+    "url": "/myflixapp/static/js/main.57102ca5.chunk.js"
   },
   {
     "revision": "678a87376bebdf1a2dd1",
