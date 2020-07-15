@@ -7,7 +7,7 @@ function LandingPage() {
 
     const API_URL = 'https://api.themoviedb.org/3/';
     const API_KEY = '88e01a302b069ec698057310c5786ac8';
-    const IMAGE_BASE_URL = 'http://image.tmdb.org/t/p/';
+    const IMAGE_BASE_URL = 'https://image.tmdb.org/t/p/';
 
     const [Movies, setMovies] = useState([])
     const [MainMovieImage, setMainMovieImage] = useState(null)
