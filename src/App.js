@@ -11,7 +11,7 @@ function App() {
             <NavBar />
             <div style={{ paddingTop: '69px', minHeight: 'calc(100vh - 80px)' }}>
                 <Switch>
-                    <Route exact path="/"  component={LandingPage} />
+                    <Route exact path="/myflixapp"  component={LandingPage} />
                     <Route exact path="/movie/:movieId"  component={MovieDetail} />
                 </Switch>
             </div>

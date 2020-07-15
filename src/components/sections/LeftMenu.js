@@ -5,7 +5,7 @@ function LeftMenu(props) {
     return (
         <Menu mode={props.mode}>
             <Menu.Item key="mail">
-                <a href="/">Home</a>
+                <a href="/myflixapp">Home</a>
             </Menu.Item>
         </Menu>
     )
