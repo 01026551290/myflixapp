@@ -37,5 +37,16 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://01026551290.github.io/myflixapp"
+  "homepage": "https://01026551290.github.io/myflixapp",
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/01026551290/myflixapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/01026551290/myflixapp/issues"
+  }
 }
